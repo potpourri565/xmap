@@ -1,0 +1,66 @@
+[01/07/2022 02:46:31] [i(0)] core: Trying to continue despite failed database creation: could not connect to server: Connection refused
+	Is the server running on host "localhost" (::1) and accepting
+	TCP/IP connections on port 5432?
+could not connect to server: Connection refused
+	Is the server running on host "localhost" (127.0.0.1) and accepting
+	TCP/IP connections on port 5432?
+
+[01/07/2022 02:46:31] [e(0)] core: DB.connect threw an exception - ActiveRecord::ConnectionNotEstablished could not connect to server: Connection refused
+	Is the server running on host "localhost" (::1) and accepting
+	TCP/IP connections on port 5432?
+could not connect to server: Connection refused
+	Is the server running on host "localhost" (127.0.0.1) and accepting
+	TCP/IP connections on port 5432?
+
+[01/07/2022 02:46:31] [e(0)] core: Failed to connect to the database: could not connect to server: Connection refused
+	Is the server running on host "localhost" (::1) and accepting
+	TCP/IP connections on port 5432?
+could not connect to server: Connection refused
+	Is the server running on host "localhost" (127.0.0.1) and accepting
+	TCP/IP connections on port 5432?
+
+[01/07/2022 02:46:31] [d(0)] core: Created user based module store
+[01/07/2022 02:46:33] [e(0)] core: Dependency for windows/encrypted_shell_reverse_tcp is not supported
+[01/07/2022 02:46:33] [e(0)] core: Dependency for windows/x64/encrypted_shell_reverse_tcp is not supported
+[01/07/2022 02:46:33] [e(0)] core: Dependency for windows/encrypted_reverse_tcp is not supported
+[01/07/2022 02:46:33] [e(0)] core: Dependency for windows/x64/encrypted_reverse_tcp is not supported
+[01/07/2022 02:46:33] [d(0)] core: HistoryManager.push_context name: :msfconsole
+[01/07/2022 02:49:33] [e(0)] core: Dependency for windows/encrypted_shell_reverse_tcp is not supported
+[01/07/2022 02:49:33] [e(0)] core: Dependency for windows/x64/encrypted_shell_reverse_tcp is not supported
+[01/07/2022 02:49:34] [e(0)] core: Dependency for windows/encrypted_reverse_tcp is not supported
+[01/07/2022 02:49:34] [e(0)] core: Dependency for windows/x64/encrypted_reverse_tcp is not supported
+[01/07/2022 02:49:54] [d(0)] core: HistoryManager.push_context name: :meterpreter
+[01/07/2022 02:50:19] [e(0)] meterpreter: stdapi_fs_stat: Operation failed: 1
+[01/07/2022 02:50:19] [d(0)] meterpreter: Call stack:
+/usr/share/metasploit-framework/lib/rex/post/meterpreter/extensions/stdapi/fs/file_stat.rb:137:in `stat'
+/usr/share/metasploit-framework/lib/rex/post/meterpreter/extensions/stdapi/fs/file_stat.rb:64:in `initialize'
+/usr/share/metasploit-framework/lib/rex/post/meterpreter/extensions/stdapi/fs/file.rb:184:in `new'
+/usr/share/metasploit-framework/lib/rex/post/meterpreter/extensions/stdapi/fs/file.rb:184:in `stat'
+/usr/share/metasploit-framework/lib/rex/post/meterpreter/ui/console/command_dispatcher/stdapi/fs.rb:737:in `cmd_ls'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:557:in `run_command'
+/usr/share/metasploit-framework/lib/rex/post/meterpreter/ui/console.rb:102:in `run_command'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:506:in `block in run_single'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:500:in `each'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:500:in `run_single'
+/usr/share/metasploit-framework/lib/rex/post/meterpreter/ui/console.rb:64:in `block in interact'
+/usr/share/metasploit-framework/lib/rex/ui/text/shell.rb:157:in `run'
+/usr/share/metasploit-framework/lib/rex/post/meterpreter/ui/console.rb:62:in `interact'
+/usr/share/metasploit-framework/lib/msf/base/sessions/meterpreter.rb:555:in `_interact'
+/usr/share/metasploit-framework/lib/rex/ui/interactive.rb:53:in `interact'
+/usr/share/metasploit-framework/lib/msf/ui/console/command_dispatcher/core.rb:1543:in `cmd_sessions'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:557:in `run_command'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:506:in `block in run_single'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:500:in `each'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:500:in `run_single'
+/usr/share/metasploit-framework/lib/msf/ui/console/command_dispatcher/exploit.rb:187:in `cmd_exploit'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:557:in `run_command'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:506:in `block in run_single'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:500:in `each'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:500:in `run_single'
+/usr/share/metasploit-framework/lib/rex/ui/text/shell.rb:162:in `run'
+/usr/share/metasploit-framework/lib/metasploit/framework/command/console.rb:48:in `start'
+/usr/share/metasploit-framework/lib/metasploit/framework/command/base.rb:82:in `start'
+/usr/bin/msfconsole:23:in `<main>'
+[01/07/2022 02:55:22] [w(0)] core: monitor_rsock: the remote socket is nil, exiting loop
+[01/07/2022 02:55:30] [d(0)] core: HistoryManager.pop_context name: :meterpreter
+[01/07/2022 02:55:43] [d(0)] core: HistoryManager.pop_context name: :msfconsole

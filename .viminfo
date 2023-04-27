@@ -1,0 +1,292 @@
+# 这个 viminfo 文件是由 Vim 9.0 生成的。
+# 如果要自行修改请特别小心！
+
+# Viminfo version
+|1,4
+
+# 此文件建立时 'encoding' 的值
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# 命令行 历史记录 (从新到旧):
+:wq
+|2,0,1682564991,,"wq"
+:q
+|2,0,1672110625,,"q"
+
+# 查找字符串 历史记录 (从新到旧):
+
+# 表达式 历史记录 (从新到旧):
+
+# 输入行 历史记录 (从新到旧):
+
+# 输入行 历史记录 (从新到旧):
+
+# 寄存器:
+
+# 文件标记:
+'0  173  0  ~/.bashrc
+|4,48,173,0,1682564991,"~/.bashrc"
+'1  2  568  ~/.ssh/known_hosts
+|4,49,2,568,1681185994,"~/.ssh/known_hosts"
+'2  9  0  /etc/apt/sources.list
+|4,50,9,0,1672110663,"/etc/apt/sources.list"
+'3  48  57  /etc/apt/sources.list
+|4,51,48,57,1672110625,"/etc/apt/sources.list"
+'4  48  57  /etc/apt/sources.list
+|4,52,48,57,1672110625,"/etc/apt/sources.list"
+'5  48  0  /etc/apt/sources.list
+|4,53,48,0,1665646756,"/etc/apt/sources.list"
+'6  48  0  /etc/apt/sources.list
+|4,54,48,0,1665646756,"/etc/apt/sources.list"
+'7  2  1  /etc/apt/sources.list
+|4,55,2,1,1665646404,"/etc/apt/sources.list"
+'8  2  1  /etc/apt/sources.list
+|4,56,2,1,1665646404,"/etc/apt/sources.list"
+'9  2  1  /etc/apt/sources.list
+|4,57,2,1,1665646404,"/etc/apt/sources.list"
+
+# 跳转列表 (从新到旧):
+-'  173  0  ~/.bashrc
+|4,39,173,0,1682564991,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1682564936,"~/.bashrc"
+-'  2  568  ~/.ssh/known_hosts
+|4,39,2,568,1681185994,"~/.ssh/known_hosts"
+-'  2  568  ~/.ssh/known_hosts
+|4,39,2,568,1681185994,"~/.ssh/known_hosts"
+-'  1  0  ~/.ssh/known_hosts
+|4,39,1,0,1681185963,"~/.ssh/known_hosts"
+-'  1  0  ~/.ssh/known_hosts
+|4,39,1,0,1681185963,"~/.ssh/known_hosts"
+-'  9  0  /etc/apt/sources.list
+|4,39,9,0,1672110663,"/etc/apt/sources.list"
+-'  9  0  /etc/apt/sources.list
+|4,39,9,0,1672110663,"/etc/apt/sources.list"
+-'  9  0  /etc/apt/sources.list
+|4,39,9,0,1672110663,"/etc/apt/sources.list"
+-'  9  0  /etc/apt/sources.list
+|4,39,9,0,1672110663,"/etc/apt/sources.list"
+-'  48  57  /etc/apt/sources.list
+|4,39,48,57,1672110634,"/etc/apt/sources.list"
+-'  48  57  /etc/apt/sources.list
+|4,39,48,57,1672110634,"/etc/apt/sources.list"
+-'  48  57  /etc/apt/sources.list
+|4,39,48,57,1672110634,"/etc/apt/sources.list"
+-'  48  57  /etc/apt/sources.list
+|4,39,48,57,1672110634,"/etc/apt/sources.list"
+-'  48  57  /etc/apt/sources.list
+|4,39,48,57,1672110625,"/etc/apt/sources.list"
+-'  48  57  /etc/apt/sources.list
+|4,39,48,57,1672110625,"/etc/apt/sources.list"
+-'  48  57  /etc/apt/sources.list
+|4,39,48,57,1672110625,"/etc/apt/sources.list"
+-'  48  57  /etc/apt/sources.list
+|4,39,48,57,1672110625,"/etc/apt/sources.list"
+-'  48  0  /etc/apt/sources.list
+|4,39,48,0,1665646756,"/etc/apt/sources.list"
+-'  48  0  /etc/apt/sources.list
+|4,39,48,0,1665646756,"/etc/apt/sources.list"
+-'  48  0  /etc/apt/sources.list
+|4,39,48,0,1665646756,"/etc/apt/sources.list"
+-'  48  0  /etc/apt/sources.list
+|4,39,48,0,1665646756,"/etc/apt/sources.list"
+-'  2  1  /etc/apt/sources.list
+|4,39,2,1,1665646725,"/etc/apt/sources.list"
+-'  2  1  /etc/apt/sources.list
+|4,39,2,1,1665646725,"/etc/apt/sources.list"
+-'  2  1  /etc/apt/sources.list
+|4,39,2,1,1665646725,"/etc/apt/sources.list"
+-'  2  1  /etc/apt/sources.list
+|4,39,2,1,1665646725,"/etc/apt/sources.list"
+-'  2  1  /etc/apt/sources.list
+|4,39,2,1,1665646725,"/etc/apt/sources.list"
+-'  2  1  /etc/apt/sources.list
+|4,39,2,1,1665646725,"/etc/apt/sources.list"
+-'  2  1  /etc/apt/sources.list
+|4,39,2,1,1665646725,"/etc/apt/sources.list"
+-'  2  1  /etc/apt/sources.list
+|4,39,2,1,1665646725,"/etc/apt/sources.list"
+-'  2  1  /etc/apt/sources.list
+|4,39,2,1,1665646725,"/etc/apt/sources.list"
+-'  2  1  /etc/apt/sources.list
+|4,39,2,1,1665646725,"/etc/apt/sources.list"
+-'  2  1  /etc/apt/sources.list
+|4,39,2,1,1665646725,"/etc/apt/sources.list"
+-'  2  1  /etc/apt/sources.list
+|4,39,2,1,1665646725,"/etc/apt/sources.list"
+-'  2  1  /etc/apt/sources.list
+|4,39,2,1,1665646404,"/etc/apt/sources.list"
+-'  2  1  /etc/apt/sources.list
+|4,39,2,1,1665646404,"/etc/apt/sources.list"
+-'  2  1  /etc/apt/sources.list
+|4,39,2,1,1665646404,"/etc/apt/sources.list"
+-'  2  1  /etc/apt/sources.list
+|4,39,2,1,1665646404,"/etc/apt/sources.list"
+-'  39  0  /etc/apt/sources.list
+|4,39,39,0,1665646391,"/etc/apt/sources.list"
+-'  39  0  /etc/apt/sources.list
+|4,39,39,0,1665646391,"/etc/apt/sources.list"
+-'  39  0  /etc/apt/sources.list
+|4,39,39,0,1665646391,"/etc/apt/sources.list"
+-'  39  0  /etc/apt/sources.list
+|4,39,39,0,1665646391,"/etc/apt/sources.list"
+-'  39  0  /etc/apt/sources.list
+|4,39,39,0,1665646391,"/etc/apt/sources.list"
+-'  39  0  /etc/apt/sources.list
+|4,39,39,0,1665646391,"/etc/apt/sources.list"
+-'  39  0  /etc/apt/sources.list
+|4,39,39,0,1665646391,"/etc/apt/sources.list"
+-'  39  0  /etc/apt/sources.list
+|4,39,39,0,1665646391,"/etc/apt/sources.list"
+-'  39  0  /etc/apt/sources.list
+|4,39,39,0,1665646391,"/etc/apt/sources.list"
+-'  39  0  /etc/apt/sources.list
+|4,39,39,0,1665646391,"/etc/apt/sources.list"
+-'  39  0  /etc/apt/sources.list
+|4,39,39,0,1665646391,"/etc/apt/sources.list"
+-'  39  0  /etc/apt/sources.list
+|4,39,39,0,1665646391,"/etc/apt/sources.list"
+-'  39  0  /etc/apt/sources.list
+|4,39,39,0,1665646391,"/etc/apt/sources.list"
+-'  39  0  /etc/apt/sources.list
+|4,39,39,0,1665646391,"/etc/apt/sources.list"
+-'  39  0  /etc/apt/sources.list
+|4,39,39,0,1665646391,"/etc/apt/sources.list"
+-'  39  0  /etc/apt/sources.list
+|4,39,39,0,1665646391,"/etc/apt/sources.list"
+-'  39  0  /etc/apt/sources.list
+|4,39,39,0,1665646155,"/etc/apt/sources.list"
+-'  39  0  /etc/apt/sources.list
+|4,39,39,0,1665646155,"/etc/apt/sources.list"
+-'  39  0  /etc/apt/sources.list
+|4,39,39,0,1665646155,"/etc/apt/sources.list"
+-'  39  0  /etc/apt/sources.list
+|4,39,39,0,1665646155,"/etc/apt/sources.list"
+-'  1  0  /etc/apt/sources.list
+|4,39,1,0,1665646053,"/etc/apt/sources.list"
+-'  1  0  /etc/apt/sources.list
+|4,39,1,0,1665646053,"/etc/apt/sources.list"
+-'  1  0  /etc/apt/sources.list
+|4,39,1,0,1665646053,"/etc/apt/sources.list"
+-'  1  0  /etc/apt/sources.list
+|4,39,1,0,1665646053,"/etc/apt/sources.list"
+-'  1  0  /etc/apt/sources.list
+|4,39,1,0,1665646053,"/etc/apt/sources.list"
+-'  1  0  /etc/apt/sources.list
+|4,39,1,0,1665646053,"/etc/apt/sources.list"
+-'  1  0  /etc/apt/sources.list
+|4,39,1,0,1665646053,"/etc/apt/sources.list"
+-'  1  0  /etc/apt/sources.list
+|4,39,1,0,1665646053,"/etc/apt/sources.list"
+-'  1  0  /etc/apt/sources.list
+|4,39,1,0,1665646053,"/etc/apt/sources.list"
+-'  1  0  /etc/apt/sources.list
+|4,39,1,0,1665646053,"/etc/apt/sources.list"
+-'  1  0  /etc/apt/sources.list
+|4,39,1,0,1665646053,"/etc/apt/sources.list"
+-'  1  0  /etc/apt/sources.list
+|4,39,1,0,1665646053,"/etc/apt/sources.list"
+-'  1  0  /etc/apt/sources.list
+|4,39,1,0,1665646053,"/etc/apt/sources.list"
+-'  1  0  /etc/apt/sources.list
+|4,39,1,0,1665646053,"/etc/apt/sources.list"
+-'  1  0  /etc/apt/sources.list
+|4,39,1,0,1665646053,"/etc/apt/sources.list"
+-'  1  0  /etc/apt/sources.list
+|4,39,1,0,1665646053,"/etc/apt/sources.list"
+-'  1  0  /etc/apt/sources.list
+|4,39,1,0,1665646053,"/etc/apt/sources.list"
+-'  1  0  /etc/apt/sources.list
+|4,39,1,0,1665646053,"/etc/apt/sources.list"
+-'  1  0  /etc/apt/sources.list
+|4,39,1,0,1665646053,"/etc/apt/sources.list"
+-'  1  0  /etc/apt/sources.list
+|4,39,1,0,1665646053,"/etc/apt/sources.list"
+-'  3  28  /etc/hosts
+|4,39,3,28,1640156250,"/etc/hosts"
+-'  3  28  /etc/hosts
+|4,39,3,28,1640156250,"/etc/hosts"
+-'  3  28  /etc/hosts
+|4,39,3,28,1640156250,"/etc/hosts"
+-'  3  28  /etc/hosts
+|4,39,3,28,1640156250,"/etc/hosts"
+-'  3  28  /etc/hosts
+|4,39,3,28,1640156250,"/etc/hosts"
+-'  3  28  /etc/hosts
+|4,39,3,28,1640156250,"/etc/hosts"
+-'  3  28  /etc/hosts
+|4,39,3,28,1640156250,"/etc/hosts"
+-'  3  28  /etc/hosts
+|4,39,3,28,1640156250,"/etc/hosts"
+-'  3  28  /etc/hosts
+|4,39,3,28,1640156250,"/etc/hosts"
+-'  3  28  /etc/hosts
+|4,39,3,28,1640156250,"/etc/hosts"
+-'  3  28  /etc/hosts
+|4,39,3,28,1640156250,"/etc/hosts"
+-'  3  28  /etc/hosts
+|4,39,3,28,1640156250,"/etc/hosts"
+-'  3  28  /etc/hosts
+|4,39,3,28,1640156250,"/etc/hosts"
+-'  3  28  /etc/hosts
+|4,39,3,28,1640156250,"/etc/hosts"
+-'  3  28  /etc/hosts
+|4,39,3,28,1640156250,"/etc/hosts"
+-'  3  28  /etc/hosts
+|4,39,3,28,1640156250,"/etc/hosts"
+-'  3  28  /etc/hosts
+|4,39,3,28,1640156250,"/etc/hosts"
+-'  3  28  /etc/hosts
+|4,39,3,28,1640156250,"/etc/hosts"
+-'  3  28  /etc/hosts
+|4,39,3,28,1640156250,"/etc/hosts"
+-'  3  28  /etc/hosts
+|4,39,3,28,1640156250,"/etc/hosts"
+-'  3  28  /etc/hosts
+|4,39,3,28,1640156250,"/etc/hosts"
+-'  3  28  /etc/hosts
+|4,39,3,28,1640156250,"/etc/hosts"
+
+# 文件内的标记历史记录 (从新到旧):
+
+> ~/.bashrc
+	*	1682564989	0
+	"	173	0
+	^	173	0
+	.	172	9
+	+	151	0
+	+	172	9
+
+> ~/.ssh/known_hosts
+	*	1681185993	0
+	"	2	568
+	^	3	0
+	.	2	569
+	+	2	569
+
+> /etc/apt/sources.list
+	*	1672110661	0
+	"	9	0
+	^	9	1
+	.	38	0
+	+	48	83
+	+	2	1
+	+	36	0
+	+	38	0
+
+> /etc/hosts
+	*	1640156249	0
+	"	3	28
+	^	3	29
+	.	3	29
+	+	3	29
+
+> /etc/proxychains4.conf
+	*	1639645006	0
+	"	159	5
+	^	159	6
+	.	159	5
+	+	159	5

